@@ -4,9 +4,17 @@
 
 # Hi, I'm Lawrence Chika Nwokpoku! 👋
 
-## About Me
 
 I'm a seasoned web developer
+
+👯‍♀️ I'm looking to collaborate on open source projects
+
+💬 Ask me about web development
+
+📫 How to reach me: email: chikanwokpoku@gmail.com
+
+⚡️ Fun fact: I love making new connections
+
 
 ## Connect With Me
 
